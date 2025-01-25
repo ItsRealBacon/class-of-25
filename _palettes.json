@@ -1,0 +1,28 @@
+{
+    "nextPaletteID": 2,
+    "palettes": {
+        "custom1": {
+            "id": "custom1",
+            "name": "GREYSCALE AS A CHOICE",
+            "colors": [
+                "#000000",
+                "#FFFFFF",
+                "#EDEDED",
+                "#B6B6B6",
+                "#808080",
+                "#5B5B5B",
+                "#373737",
+                "#121212",
+                "#9B111E",
+                "#FF00DD",
+                "#A501FE",
+                "#0011FF",
+                "#00EEFF",
+                "#00A859",
+                "#FFD700",
+                "#FF9500"
+            ],
+            "custom": true
+        }
+    }
+}
